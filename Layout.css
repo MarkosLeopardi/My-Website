@@ -1,0 +1,113 @@
+body, html {
+    height: 100%;
+    margin: 0%;
+    background-image: url("images/image.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+
+.Eiko {
+    position: absolute;
+    float: left;
+    margin-left: 50px;
+}
+
+.Head .name {
+    text-align: center;
+    color:white;
+    font-size: 50px;
+
+}
+
+#Menu {
+    float:left;          
+    width:95%;    
+    font-size:93%;
+    line-height:normal;
+    border-bottom:3px solid #b7dd0d;
+    margin-left: 50px;
+}
+
+#Menu ul {
+    margin:0;
+    margin-top: 100px;
+    margin-left: 400px;
+    padding:2px 0px 0 50px;
+    list-style-position: inside;
+}
+
+#Menu li {
+    display: inline;
+    margin:0;
+    padding:0;
+
+}
+
+#Menu a {
+    float:left;
+    margin:0;
+    padding: 0 20px;
+    text-decoration: wavy;
+    font-size: 40px;
+    color: bisque
+}
+
+#Menu .active a {
+    float:left;
+    margin:0;
+    padding: 0 20px;
+    text-decoration: wavy;
+    font-size: 40px;
+    color: red
+}
+
+
+
+.post .no1 {
+    margin-left: 70px;
+    margin-top: 400px;  
+    text-decoration: underline;    
+    font-size: 70px;    
+}
+
+.post .title {
+    color: #ff0000;
+    text-decoration: solid;
+    text-align: center;
+    font-size: 30px;
+}
+
+.post .basika{
+    width: 30px;
+    height: 30px;
+    color: rgb(41, 4, 250);
+    text-decoration: solid;
+    text-decoration: underline;    
+    font-size: larger;
+}
+
+.post .deutera{
+    color: rgb(7, 7, 7);    
+    font-size: larger;
+}
+
+.pinakas{
+    margin-left: 500px;
+    padding-top: 100px;
+    width: 20%
+}
+
+.pinakas .plir {
+    color: rgb(0, 247, 255);
+    text-decoration: solid;  
+    font-size: larger;
+}
+
+.post .information {
+    font-size: larger;
+    margin-left: 300px;
+    padding-top: 200px;
+}
