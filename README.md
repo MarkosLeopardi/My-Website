@@ -67,23 +67,6 @@ Some areas that can still be improved include:
 
 ---
 
-## Future Improvements
-
-Planned improvements include:
-
-- Improving responsiveness across devices
-- Enhancing visual presentation
-- Expanding content and portfolio sections
-- Continuing development through more modern front-end technologies
-
----
-
-## Run Locally
-
-Simply open the `index.html` file in your browser.
-
----
-
 ## Author
 
 **Markos Leopardi**
